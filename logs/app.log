@@ -1,0 +1,16 @@
+2024-10-09T19:20:17.586Z [INFO]: Registering user with email: johndoe@email.com
+2024-10-09T19:20:17.603Z [INFO]: Loading users from file...
+2024-10-09T19:20:17.618Z [WARN]: No users found. Starting with an empty user list.
+2024-10-09T19:20:17.621Z [INFO]: Registering user: johndoe@email.com
+2024-10-09T19:20:17.983Z [INFO]: Loading users from file...
+2024-10-09T19:20:17.987Z [INFO]: Loaded 1 users. Next user ID: 2
+2024-10-09T19:20:17.992Z [INFO]: User registered successfully: johndoe@email.com
+2024-10-09T19:20:17.994Z [INFO]: Loading users from file...
+2024-10-09T19:20:18.002Z [INFO]: Loaded 1 users. Next user ID: 2
+2024-10-09T19:20:18.005Z [INFO]: Fetching user by email: johndoe@email.com
+2024-10-09T19:20:18.008Z [INFO]: User found: johndoe@email.com
+2024-10-09T19:20:18.024Z [INFO]: Successfully registered user with ID: 1
+2024-10-09T19:20:33.731Z [INFO]: Loading users from file...
+2024-10-09T19:20:33.735Z [INFO]: Loaded 1 users. Next user ID: 2
+2024-10-09T19:20:33.738Z [INFO]: Fetching user by email: johndoe@email.com
+2024-10-09T19:20:33.739Z [INFO]: User found: johndoe@email.com
